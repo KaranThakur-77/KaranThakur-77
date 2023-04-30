@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KaranThakur-77
 - 👀 I’m interested in web development , app development , ML(Machine learning) and AI(Artificial Intelligence)  
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning PHP and Laravel as a Backend Technology.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me thakurkaran.in@gmail.com
 
